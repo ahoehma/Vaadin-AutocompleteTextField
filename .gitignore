@@ -5,3 +5,7 @@ target-grunt
 .DS_Store
 Thumbs.db
 styles.css
+.classpath
+.project
+.settings/
+.sts4-cache/
